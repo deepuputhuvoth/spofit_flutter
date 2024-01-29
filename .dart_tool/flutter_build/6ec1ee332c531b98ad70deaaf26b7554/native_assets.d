@@ -1,0 +1,1 @@
+ /Users/coddletechnologiespvt.ltd./Documents/Spofit/spofit_flutter/.dart_tool/flutter_build/6ec1ee332c531b98ad70deaaf26b7554/native_assets.yaml: 
